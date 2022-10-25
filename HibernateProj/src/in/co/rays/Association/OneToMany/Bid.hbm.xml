@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Aug 5, 2022 2:03:22 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="in.co.rays.Association.Bid" table="BID">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="increment" />
+        </id>
+        <property name="amount" type="int">
+            <column name="AMOUNT" />
+        </property>
+        <property name="itemid" insert="false" type="int">
+            <column name="ITEMID" />
+        </property>
+    </class>
+</hibernate-mapping>
