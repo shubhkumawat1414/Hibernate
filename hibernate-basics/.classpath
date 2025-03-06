@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/jaas.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/Hibernate Jar Files/mysql-connector-java-8.0.29 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/Hib/hibernate-annotations-jar-files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Rays Software/jar/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/junit-jupiter-api-5.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/junit-4.12 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

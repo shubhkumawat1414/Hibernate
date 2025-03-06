@@ -1,0 +1,58 @@
+2024-09-27 13:59:27 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-27 13:59:27 ERROR TestLog4j:14 - This is Error...!!
+2024-09-27 13:59:27 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-27 14:00:00 DEBUG TestLog4j:11 - This is Debug...!!
+2024-09-27 14:00:00 INFO  TestLog4j:12 - This is Info...!!
+2024-09-27 14:00:00 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-27 14:00:00 ERROR TestLog4j:14 - This is Error...!!
+2024-09-27 14:00:00 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-27 14:00:00 INFO  TestLog4j:27 - Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
+2024-09-27 14:00:30 DEBUG TestLog4j:11 - This is Debug...!!
+2024-09-27 14:00:30 INFO  TestLog4j:12 - This is Info...!!
+2024-09-27 14:00:30 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-27 14:00:30 ERROR TestLog4j:14 - This is Error...!!
+2024-09-27 14:00:30 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-27 14:00:30 INFO  TestLog4j:27 - Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
+2024-09-27 14:00:47 INFO  TestLog4j:12 - This is Info...!!
+2024-09-27 14:00:47 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-27 14:00:47 ERROR TestLog4j:14 - This is Error...!!
+2024-09-27 14:00:47 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-27 14:00:47 INFO  TestLog4j:27 - Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
+2024-09-27 14:01:39 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-27 14:01:39 ERROR TestLog4j:14 - This is Error...!!
+2024-09-27 14:01:39 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-27 14:01:58 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-27 14:01:58 ERROR TestLog4j:14 - This is Error...!!
+2024-09-27 14:01:58 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-30 11:46:54 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-30 11:46:54 ERROR TestLog4j:14 - This is Error...!!
+2024-09-30 11:46:54 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-30 11:47:17 INFO  TestLog4j:12 - This is Info...!!
+2024-09-30 11:47:17 WARN  TestLog4j:13 - This is Warn...!!
+2024-09-30 11:47:17 ERROR TestLog4j:14 - This is Error...!!
+2024-09-30 11:47:17 FATAL TestLog4j:15 - This is Fatal...!!
+2024-09-30 11:47:17 INFO  TestLog4j:27 - Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
+2024-10-03 11:37:52 WARN  TestLog4j:13 - This is Warn...!!
+2024-10-03 11:37:52 ERROR TestLog4j:14 - This is Error...!!
+2024-10-03 11:37:52 FATAL TestLog4j:15 - This is Fatal...!!
+2024-10-03 11:37:52 WARN  TestLog4j:27 - Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
+2024-11-29 11:54:01 WARN  TestLog4j:13 - This is Warn...!!
+2024-11-29 11:54:01 ERROR TestLog4j:14 - This is Error...!!
+2024-11-29 11:54:01 FATAL TestLog4j:15 - This is Fatal...!!
+2024-11-29 11:54:25 INFO  TestLog4j:12 - This is Info...!!
+2024-11-29 11:54:25 WARN  TestLog4j:13 - This is Warn...!!
+2024-11-29 11:54:25 ERROR TestLog4j:14 - This is Error...!!
+2024-11-29 11:54:25 FATAL TestLog4j:15 - This is Fatal...!!
+2024-11-29 11:54:25 INFO  TestLog4j:27 - Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
